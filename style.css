@@ -8,11 +8,32 @@ body {
   border: 3px solid red;
   width: 100%;
 }
+#nav {
+  border: 3px solid green;
+}
+#nav li {
+display: inline-block;
+text-decoration: none;
+padding: 5px 20px;
+}
 #titulo {
   background-color: pink;
 }
+main {
+  margin-top: 120px;
+}
 #minha_foto {
   height: 200px;
+}
+.aprendizado {
+  display: inline-block;
+  max-width: 30%;
+  margin: 30px;
+  background-color: plum;
+  padding: 10px;
+}
+.meu-aprendizado {
+  right: 200px;
 }
 footer {
 }
