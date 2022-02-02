@@ -5,22 +5,38 @@ body {
   top: 0;
   position: fixed;
   left: 0;
-  border: 3px solid red;
   width: 100%;
+  height: 140px;
+  background-color: rgb(200, 92, 92);
 }
 #nav {
-  border: 3px solid green;
+  display: inline-block;
+ margin-top: 5px;
 }
 #nav li {
 display: inline-block;
 text-decoration: none;
 padding: 5px 20px;
+font: black;
 }
 #titulo {
-  background-color: pink;
+  color: rgb(190, 183, 76);
+  text-align: center;
 }
 main {
-  margin-top: 120px;
+  margin-top: 150px;
+}
+aside {
+  float: right;
+  background-color: rgb(200, 92, 92);
+  position: fixed;
+  right: 0%;
+  top: 140px;
+}
+#aside li{
+  padding: 20px 30px;
+  text-decoration: none;
+  color: white;
 }
 #minha_foto {
   height: 200px;
@@ -35,8 +51,12 @@ main {
 .meu-aprendizado {
   right: 200px;
 }
-footer {
+#rodape {
+  height: 200px;
+  background-color: rgb(202, 102, 102);
 }
 #instagram {
-  height: 50px;
+  height: 100px;
+  margin-left: 40px;
+  margin-top: 60px;
 }
