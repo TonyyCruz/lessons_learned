@@ -11,7 +11,7 @@ body {
 }
 #nav {
   display: inline-block;
- margin-top: 5px;
+  margin-top: 5px;
 }
 #nav li {
 display: inline-block;
@@ -40,6 +40,9 @@ main {
 }
 #minha_foto {
   height: 200px;
+  padding: 10px;
+  margin: 10px;
+  border: 5px solid rgb(200, 100, 100);
 }
 .aprendizado {
   display: inline-block;
