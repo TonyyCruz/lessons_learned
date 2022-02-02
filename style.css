@@ -26,7 +26,7 @@ font: black;
 main {
   margin-top: 150px;
 }
-aside {
+#aside {
   float: right;
   background-color: rgb(200, 92, 92);
   position: fixed;
@@ -49,7 +49,11 @@ aside {
   padding: 10px;
 }
 .meu-aprendizado {
-  right: 200px;
+  max-width: 30%;
+  margin: 30px;
+  background-color: plum;
+  padding: 10px;
+  float: left;
 }
 #rodape {
   height: 200px;
