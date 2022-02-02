@@ -55,6 +55,9 @@ main {
   padding: 10px;
   float: left;
 }
+#poro{
+  height: 100px;
+}
 #rodape {
   height: 200px;
   background-color: rgb(202, 102, 102);
