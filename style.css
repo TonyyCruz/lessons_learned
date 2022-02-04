@@ -1,5 +1,5 @@
 body {
-  background-color:rgb(253, 251, 251)
+  background-color: rgb(253, 251, 251)
 }
 
 #cabecalho {
@@ -20,7 +20,7 @@ body {
 display: inline-block;
 text-decoration: none;
 padding: 5px 20px;
-font-family: serif;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 font: black;
 
 }
@@ -41,6 +41,7 @@ main {
   right: 0%;
   top: 140px;
 }
+
 
 #aside li{
   padding: 20px 30px;
@@ -83,7 +84,7 @@ main {
   height: 100px;
   margin-left: 40px;
   margin-top: 60px;
-  position:relative;
+  position: relative;
   bottom: 40px;
 }
 
@@ -94,6 +95,6 @@ td, th {
 
 table {
   border: 1px solid black;
-  position:relative;
+  position: relative;
   bottom: 40px;
-}
+};
