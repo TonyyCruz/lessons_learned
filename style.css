@@ -22,7 +22,6 @@ body {
   text-decoration: none;
   padding: 5px 20px;
   font: black;
-
 }
 
 #titulo {
@@ -88,7 +87,7 @@ main {
   bottom: 40px;
 }
 
-td, th {
+td , th {
   border: 1px solid black;
   bottom: 30px;
 }
@@ -98,3 +97,4 @@ table {
   position: relative;
   bottom: 40px;
 };
+;
