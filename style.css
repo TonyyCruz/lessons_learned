@@ -21,7 +21,6 @@ body {
   display: inline-block;
   text-decoration: none;
   padding: 5px 20px;
-  font: black;
 }
 
 #titulo {
@@ -96,5 +95,4 @@ table {
   border: 1px solid black;
   position: relative;
   bottom: 40px;
-};
-;
+}
